@@ -4,7 +4,7 @@
 
 The app provides features where users can listen to realtime updates from the firestore elections collection
 
-It also supports the new iOS Live Activity Broadcast feature using APNS Channel to display real time election activity from Lock Screen and Dynamic Island.
+It also supports the new iOS Live Activity Broadcast feature using APNS Channel to display real time election activity from Lock Screen and Dynamic Island. Stacks used: iOS with SwiftUI for client, Firestore Database, Google Cloud Function with nodeJS 18 runtime.
 
 ## Requirements
 - Xcode 16 & iOS 18
